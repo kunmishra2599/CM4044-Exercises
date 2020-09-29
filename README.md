@@ -1,2 +1,3 @@
 # CM4044-Exercises
-Set of Exercises with Solutions for CM4044 (AI in Chemistry) at NTU
+This repository contains a set of programming exercises with solutions for CM4044 (AI in Chemistry) at NTU. 
+
